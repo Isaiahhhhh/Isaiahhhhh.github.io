@@ -1,0 +1,22 @@
+
+body {
+    font-family: sans-serif, "Times New Roman";
+    background-color: 	#C0C0C0;
+}
+a:link {
+  color: blue }
+a:visited {
+  color: purple }
+  h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+h2 {
+   font-family: sans-serif, "Times New Roman"; 
+}
+/*.center {
+  display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}*/
+background-color: 	#808080;
